@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "道路工事",
+  "base_artist": "SHO-SENSEI!!",
+  "createdAt": "2026-03-05T05:42:38.775776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "道路工事",
+      "artist": "SHO-SENSEI!!",
+      "has_synced": true,
+      "path": "select/01_道路工事_SHO-SENSEI!!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "道路工事",
+      "artist": "SHO-SENSEI!!",
+      "has_synced": false,
+      "path": "select/pl_01_道路工事_SHO-SENSEI!!.txt"
+    }
+  ]
+}
